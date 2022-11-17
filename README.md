@@ -1,6 +1,6 @@
 # Implementações de Métodos Numéricos
 
-Este repositório contém as anotações da implementações dos métodos da bissecção, da posição falsa e do ponto fixo. Com uma breve introdução escrita sobre cada método. As explicações sobre as funções podem ser vistas a seguir.
+Este repositório contém as anotações da implementações dos métodos da bissecção, da posição falsa e do ponto fixo. Tudo isto com uma breve introdução sobre cada método. As explicações sobre as funções podem ser vistas a seguir.
 
 
 ## Método da bissecção
